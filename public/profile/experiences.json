@@ -1,0 +1,26 @@
+{
+    "experiences": [
+        {
+            "title": "Data Science Intern",
+            "subtitle": "Legato Health Technologies",
+            "workType": "Internship",
+            "workDescription": [
+                "Built an NLP-driven chatbot using RASA, a Python-based framework that interacts with the user and understands their issue and provides a solution if it's available in the historical data else automatically creates a ticket on their behalf",
+                "Automated the process of raising a ticket on the JIRA platform increasing the speed by 400% with an accuracy of 92%"
+            ],
+            "dateText": "May 2022 – July 2022"
+        },
+        {
+            "title": "Executive",
+            "subtitle": "Larsen & Toubro Limited",
+            "workType": "Business Development & Marketing",
+            "workDescription": [
+                "Responsible for Business development for various Land Weapon & Engineering Systems",
+                "Interaction with customers to understand their requirement and explore new business prospects.",
+                "Preparation of business cases for new technologies."
+                
+            ],
+            "dateText": "July 2019 – July 2021"
+        }
+    ]
+}

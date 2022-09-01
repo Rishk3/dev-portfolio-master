@@ -1,0 +1,17 @@
+{
+    "education":[
+        {
+            "title": "July 2021 - Current",
+            "cardTitle": "M.Tech in Signal Processing and Machine Learning",
+            "cardSubtitle":"Indian Institute of Technology, Guwahati",
+            "cardDetailedText": "CGPA - 9.45"
+            
+        },
+        {
+            "title": "July 2019 - May 2019",
+            "cardTitle": "B.Tech in Electrical Engineering",
+            "cardSubtitle":"Sardar Vallabhbhai National Institute of Technology, Surat",
+            "cardDetailedText": "CGPA - 9.27"
+        }
+    ]
+}

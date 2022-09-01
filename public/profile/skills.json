@@ -1,0 +1,48 @@
+{
+    "intro": "I love to learn new skills and technologies.\nThese are some of the major languages, technologies, tools and platforms I have worked with:",
+    "skills": [{
+     
+            "title": "Programming Languages and Tools",
+            "items" : [
+     
+                {
+                    "icon": "images/skills/c.png",
+                    "title": "C/C++"
+                },
+                {
+                    "icon": "images/skills/python.png",
+                    "title": "Python"
+                },
+                {
+                    "icon": "images/skills/numpy.jpg",
+                    "title": "Numpy"
+                },
+                {
+                    "icon": "images/skills/pandas.jpg",
+                    "title": "Pandas"
+                },
+                {
+                    "icon": "images/skills/scikit.jpg",
+                    "title": "Scikit Learn"
+                },
+                {
+                    "icon":"images/skills/cv.png",
+                    "title": "OpenCV"
+                },
+                {
+                    "icon": "images/skills/tf.png",
+                    "title": "Tensorflow"
+                }
+
+        ]},
+        {
+            "title": "Frameworks & Technologies",
+            "items" : [
+                {
+                    "icon": "images/skills/rasa.png",
+                    "title": "RASA"
+                }
+            ]
+        }
+
+]}
